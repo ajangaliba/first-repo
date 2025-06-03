@@ -112,4 +112,6 @@ En kucuk 4, 4 ile 5 yer degisitrir,
 Geriye kalan dizi [8,7,9,5,15,6]
 En kucuk 5, 5 ile 8 yer degistirir,
 [2,3,4,5,7,9,8,15,6]
-
+# first-repo
+trial
+9bf3c95cefbe2141a39c65da117c3cebd0de5c6d
